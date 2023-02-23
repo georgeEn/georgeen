@@ -3,15 +3,13 @@ My name is George, I am an Electronics Enineering student in Hochschule Hamm Lip
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/74372044/220821900-26491bf5-d0f7-45aa-8fcf-bc8f1a21abd4.gif)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Engineering student</h3>
 
 - 🔭 I’m currently working on **Autonomous Vehicle with Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/georgeEn?tab=repositories](https://github.com/georgeEn?tab=repositories)
 
 - 📫 How to reach me **georgeenekwa@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/georg/Downloads/Resume.En.pdf](file:///C:/Users/georg/Downloads/Resume.En.pdf)
 
 - ⚡ Fun fact **I spend my free time gaming, most of which are on my youtube**
 
